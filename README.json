@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-12T02:21:55Z",
+            "last_commit": "2026-05-12T19:36:00Z",
             "owner": "keploy",
             "repo": "keploy",
-            "stars": 17228
+            "stars": 17227
           }
         },
         {
@@ -149,10 +149,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-09T11:57:24Z",
+            "last_commit": "2026-05-12T13:29:22Z",
             "owner": "zaproxy",
             "repo": "zaproxy",
-            "stars": 15111
+            "stars": 15118
           }
         },
         {
@@ -167,10 +167,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-11T21:47:03Z",
+            "last_commit": "2026-05-12T12:59:27Z",
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 28312
+            "stars": 28321
           }
         }
       ],
@@ -186,10 +186,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-12T00:09:23Z",
+            "last_commit": "2026-05-13T01:14:01Z",
             "owner": "promptfoo",
             "repo": "promptfoo",
-            "stars": 21160
+            "stars": 21193
           }
         },
         {
@@ -212,7 +212,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-11T02:41:33Z",
+            "last_commit": "2026-05-13T02:07:58Z",
             "owner": "voicetestdev",
             "repo": "voicetest",
             "stars": 19
@@ -225,7 +225,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-12T04:28:41Z",
+            "last_commit": "2026-05-13T04:28:01Z",
             "owner": "jwekavanagh",
             "repo": "agentskeptic",
             "stars": 0
@@ -275,10 +275,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-12T05:08:49Z",
+            "last_commit": "2026-05-13T02:34:59Z",
             "owner": "faiscadev",
             "repo": "fakecloud",
-            "stars": 285
+            "stars": 287
           }
         },
         {
@@ -301,10 +301,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-09T00:53:08Z",
+            "last_commit": "2026-05-13T04:58:01Z",
             "owner": "wiremock",
             "repo": "wiremock",
-            "stars": 7237
+            "stars": 7240
           }
         },
         {
@@ -449,7 +449,7 @@
             "last_commit": "2026-04-15T06:50:05Z",
             "owner": "ai-dashboad",
             "repo": "flutter-skill",
-            "stars": 243
+            "stars": 244
           }
         },
         {
@@ -467,7 +467,7 @@
             "last_commit": "2026-05-08T12:06:49Z",
             "owner": "test-zeus-ai",
             "repo": "testzeus-hercules",
-            "stars": 1008
+            "stars": 1009
           }
         },
         {
@@ -497,10 +497,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-11T16:33:44Z",
+            "last_commit": "2026-05-12T16:42:14Z",
             "owner": "vitalets",
             "repo": "playwright-bdd",
-            "stars": 677
+            "stars": 680
           }
         },
         {
@@ -542,7 +542,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-08T23:27:16Z",
+            "last_commit": "2026-05-12T07:49:15Z",
             "owner": "kiwitcms",
             "repo": "Kiwi",
             "stars": 1192
@@ -657,7 +657,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-12T05:09:04Z",
+            "last_commit": "2026-05-13T03:56:17Z",
             "owner": "foundry-rs",
             "repo": "foundry",
             "stars": 10336
@@ -704,7 +704,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-11T22:27:12Z",
+            "last_commit": "2026-05-12T21:05:31Z",
             "owner": "aiqualitylab",
             "repo": "ai-natural-language-tests",
             "stars": 17
@@ -728,6 +728,58 @@
     },
     {
       "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Another awesome list for developer training",
+          "title": "Learn to Code",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-10T22:50:40Z",
+            "owner": "karlhorky",
+            "repo": "learn-to-program",
+            "stars": 4784
+          }
+        },
+        {
+          "children": [],
+          "description": "Courses and talks directly from the testing community.",
+          "title": "The Dojo"
+        },
+        {
+          "children": [],
+          "description": "Online courses from top universities.",
+          "title": "Coursera"
+        },
+        {
+          "children": [],
+          "description": "Online free security training.",
+          "title": "Cybrary"
+        },
+        {
+          "children": [],
+          "description": "The famous Black Box Software Testing (BBST) courses are university level courses on Software Test Foundations, Bug Reporting and Test Design. These materials have been creative commons licensed for use by anyone. Includes articles, slides and video lectures.",
+          "title": "BBST Testing Courses"
+        },
+        {
+          "children": [],
+          "description": "Open source React Native mobile app built as a hands on training surface for QA automation. Cross platform testIDs work across Maestro, Appium, Espresso and XCUITest, and a deep QA Debug Menu lets trainees force the failure modes that actually bite in production (4xx, 5xx, timeouts, offline, denied permissions, declined IAP, expired tokens) without flaky backends.",
+          "title": "FrontRow",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-12T13:01:32Z",
+            "owner": "majdukovic",
+            "repo": "frontrow",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Training (Includes developer training for automation testers)"
+    },
+    {
+      "description": "",
       "items": [],
       "title": "Suggested Awesome Lists"
     },
@@ -744,7 +796,7 @@
             "last_commit": "2026-04-27T19:16:26Z",
             "owner": "kdeldycke",
             "repo": "awesome-falsehood",
-            "stars": 27349
+            "stars": 27347
           }
         },
         {
@@ -789,7 +841,7 @@
             "last_commit": "2026-05-05T14:47:44Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 465427
+            "stars": 465769
           }
         },
         {
@@ -802,7 +854,7 @@
             "last_commit": "2025-05-10T22:50:40Z",
             "owner": "karlhorky",
             "repo": "learn-to-program",
-            "stars": 4783
+            "stars": 4784
           }
         },
         {
@@ -815,7 +867,7 @@
             "last_commit": "2025-02-22T16:39:11Z",
             "owner": "paragonie",
             "repo": "awesome-appsec",
-            "stars": 6905
+            "stars": 6908
           }
         },
         {
@@ -841,7 +893,7 @@
             "last_commit": "2026-01-11T02:00:26Z",
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14321
+            "stars": 14325
           }
         },
         {
@@ -906,7 +958,7 @@
             "last_commit": "2026-04-16T12:48:30Z",
             "owner": "abhivaikar",
             "repo": "howtheytest",
-            "stars": 6760
+            "stars": 6761
           }
         }
       ],
@@ -929,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-12T05:34:02.247Z",
+    "last_updated": "2026-05-13T05:43:30.899Z",
     "original_repository": "TheJambo/awesome-testing",
     "source_repository": "v1nvn/enhansome-testing",
     "source_repository_description": null,
