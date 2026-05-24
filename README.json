@@ -23,7 +23,7 @@
             "last_commit": "2026-05-22T12:06:58Z",
             "owner": "usebruno",
             "repo": "bruno",
-            "stars": 44352
+            "stars": 44402
           }
         },
         {
@@ -58,10 +58,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-22T12:50:05Z",
+            "last_commit": "2026-05-23T14:46:20Z",
             "owner": "keploy",
             "repo": "keploy",
-            "stars": 17370
+            "stars": 17371
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-05-22T08:08:19Z",
             "owner": "zaproxy",
             "repo": "zaproxy",
-            "stars": 15163
+            "stars": 15167
           }
         },
         {
@@ -183,7 +183,7 @@
             "last_commit": "2026-05-23T01:35:27Z",
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 28819
+            "stars": 28834
           }
         }
       ],
@@ -199,10 +199,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-23T05:34:18Z",
+            "last_commit": "2026-05-24T05:49:41Z",
             "owner": "promptfoo",
             "repo": "promptfoo",
-            "stars": 21515
+            "stars": 21540
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-05-21T21:05:46Z",
             "owner": "voicetestdev",
             "repo": "voicetest",
-            "stars": 21
+            "stars": 22
           }
         },
         {
@@ -238,7 +238,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-17T05:00:40Z",
+            "last_commit": "2026-05-24T05:37:22Z",
             "owner": "jwekavanagh",
             "repo": "agentskeptic",
             "stars": 0
@@ -288,7 +288,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-20T23:47:57Z",
+            "last_commit": "2026-05-24T05:52:07Z",
             "owner": "faiscadev",
             "repo": "fakecloud",
             "stars": 302
@@ -317,7 +317,7 @@
             "last_commit": "2026-05-22T10:06:58Z",
             "owner": "wiremock",
             "repo": "wiremock",
-            "stars": 7253
+            "stars": 7254
           }
         },
         {
@@ -446,10 +446,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-20T05:53:45Z",
+            "last_commit": "2026-05-23T16:16:25Z",
             "owner": "rubycdp",
             "repo": "ferrum",
-            "stars": 2010
+            "stars": 2011
           }
         },
         {
@@ -462,7 +462,7 @@
             "last_commit": "2026-05-21T16:24:38Z",
             "owner": "ai-dashboad",
             "repo": "flutter-skill",
-            "stars": 267
+            "stars": 268
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2026-05-13T16:50:15Z",
             "owner": "vitalets",
             "repo": "playwright-bdd",
-            "stars": 688
+            "stars": 689
           }
         },
         {
@@ -555,7 +555,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-22T03:03:37Z",
+            "last_commit": "2026-05-23T09:34:07Z",
             "owner": "kiwitcms",
             "repo": "Kiwi",
             "stars": 1198
@@ -670,10 +670,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-23T05:34:10Z",
+            "last_commit": "2026-05-24T02:31:22Z",
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10353
+            "stars": 10355
           }
         },
         {
@@ -752,7 +752,7 @@
             "last_commit": "2025-05-10T22:50:40Z",
             "owner": "karlhorky",
             "repo": "learn-to-program",
-            "stars": 4796
+            "stars": 4798
           }
         },
         {
@@ -809,7 +809,7 @@
             "last_commit": "2026-04-27T19:16:26Z",
             "owner": "kdeldycke",
             "repo": "awesome-falsehood",
-            "stars": 27370
+            "stars": 27371
           }
         },
         {
@@ -822,7 +822,7 @@
             "last_commit": "2024-04-18T03:26:59Z",
             "owner": "minimaxir",
             "repo": "big-list-of-naughty-strings",
-            "stars": 47637
+            "stars": 47643
           }
         },
         {
@@ -854,7 +854,7 @@
             "last_commit": "2026-05-05T14:47:44Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 469153
+            "stars": 469486
           }
         },
         {
@@ -867,7 +867,7 @@
             "last_commit": "2025-05-10T22:50:40Z",
             "owner": "karlhorky",
             "repo": "learn-to-program",
-            "stars": 4796
+            "stars": 4798
           }
         },
         {
@@ -880,7 +880,7 @@
             "last_commit": "2025-02-22T16:39:11Z",
             "owner": "paragonie",
             "repo": "awesome-appsec",
-            "stars": 6922
+            "stars": 6925
           }
         },
         {
@@ -919,7 +919,7 @@
             "last_commit": "2023-02-01T15:23:18Z",
             "owner": "ligurio",
             "repo": "sqa-wiki",
-            "stars": 2312
+            "stars": 2313
           }
         },
         {
@@ -994,7 +994,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-23T05:35:22.485Z",
+    "last_updated": "2026-05-24T05:56:43.499Z",
     "original_repository": "TheJambo/awesome-testing",
     "source_repository": "v1nvn/enhansome-testing",
     "source_repository_description": null,
